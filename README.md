@@ -11,7 +11,7 @@ Here are the list of C Piscine's curriculum that was completed by myself:
 
 | #   | SUBJECT       | STATUS  |
 | --- | ------------- | ------- |
-|  O  |      C00      |   73%   |
+|  O  |      C00 [C00](https://pages.github.com/).      |   73%   |
 |  1  |      C01      |   85%   |
 |  2  |      C02      |   87%   |
 |  3  |      C03      |   50%   |
