@@ -9,9 +9,9 @@ For more information: https://www.adek.gov.ae/en/Programmes-and-Initiatives/42-A
 Here are the list of C Piscine's curriculum that was completed by myself:
 
 
-| #   | SUBJECT       | STATUS  |
+| #   |    SUBJECT    | STATUS  |
 | --- | ------------- | ------- |
-|  O  |      C00 [C00](https://pages.github.com/).      |   73%   |
+|  0  |      C00      |   73%   |
 |  1  |      C01      |   85%   |
 |  2  |      C02      |   87%   |
 |  3  |      C03      |   50%   |
